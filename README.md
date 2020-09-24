@@ -17,7 +17,7 @@
 |1ST |1ST     |1ST   |
 |2ND |2NDNN   |2ND   |
 
-[NKUST](https://www.nkust.edu.tw/)
+![NKUST](https://www.nkust.edu.tw/)
 
 <https://www.nkust.edu.tw/>
 
