@@ -21,7 +21,7 @@
 
 <https://www.nkust.edu.tw/>
 
-[![NKUST]](182513897.jpg"第一科大")
+[![NKUST]](182513897.jpg "第一科大")
 
 [yotube](https://www.youtube.com/watch?v=sSm2dRarhPo)
 
